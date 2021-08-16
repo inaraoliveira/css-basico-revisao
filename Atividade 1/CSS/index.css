@@ -1,0 +1,60 @@
+#red{
+    border: solid;
+    border-width: 5px;
+    border-color: darkgreen;
+    background-color: red;
+    width: 500px;
+    height: 100px;
+}
+
+#white{
+    border: solid;
+    border-width: 1px;
+    border-color: black;
+    width: 500px;
+    height: 100px;
+}
+
+.div{
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+    width: 508px;
+    height: 100px;
+}
+
+#orchid{
+    border: solid;
+    border-width: 1px;
+    background-color: darkorchid;
+    width: 508px;
+    height: 100px;
+}
+
+.item-1{
+    color: darkgreen;
+    text-decoration: underline;
+}
+
+.item-2{
+    color: black;
+    text-decoration: underline;
+}
+
+.item-3{
+    color: yellow;
+    text-decoration: underline;
+}
+
+#yellow{
+    border: solid;
+    border-width: 5px;
+    border-color: brown;
+    background-color: rgb(255, 166, 0);
+    width: 500px;
+    height: 100px;
+}
+
+.paragrafo{
+    font-size: 30px;
+}

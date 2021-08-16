@@ -1,0 +1,17 @@
+a{
+    color: blue;
+}
+
+p strong{
+    color: red;
+}
+
+.destaque{
+    background-color: rgb(255, 255, 170);
+    width: 1300px;
+    height: 25px;
+}
+
+#unico{
+    font-weight: bold;
+}

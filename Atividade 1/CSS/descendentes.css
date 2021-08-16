@@ -1,0 +1,41 @@
+.ogedei{
+    color: white;
+    background-color: blueviolet;
+}
+
+.kublai{
+    color:firebrick;
+    background-color: cyan;
+}
+
+.temur{
+    color: darkorange;
+    background-color: aquamarine;
+}
+
+.data-ogedei{
+    font-weight: bold;
+    background-color: aqua;
+}
+
+.data-kublai{
+    font-weight: bold;
+    background-color: darkcyan;
+}
+
+.data-temur{
+    font-weight: bold;
+    background-color: darkgreen;
+}
+
+h1{
+    text-align: right;
+}
+
+table{
+    margin: auto;
+}
+
+.data{
+    font-weight: bold;
+}
